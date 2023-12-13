@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\oana\source\repos\Template for OpenGL laborator 3\main.cpp(145,36): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  Template for OpenGL laborator 3.vcxproj -> C:\Users\oana\source\repos\Template for OpenGL laborator 3\x64\Debug\Template for OpenGL laborator 3.exe
